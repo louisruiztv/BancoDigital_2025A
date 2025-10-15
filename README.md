@@ -77,4 +77,4 @@ git push origin main
 
 Proyecto desarrollado aplicando conceptos de Big Data, Python y bases de datos NoSQL.
 Luis Manuel Ruiz
-Fecha: 12.10.2025
+Fecha: 15.10.2025
